@@ -1,5 +1,4 @@
-# Anime Generator
-
+# Image Explain generator
 Sebuah aplikasi web yang dibuat dengan Nuxt untuk menghasilkan penjellasan dari gambar yang diupload oleh user!
 
 <!-- Anda bisa menambahkan screenshot aplikasi di sini -->
